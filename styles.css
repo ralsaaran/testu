@@ -1,0 +1,41 @@
+/* add your CSS here */
+.bodywindow {
+	border: 1px solid  #e5e5e5;
+	width: 400px;
+	height: 600px;
+	box-shadow: 10px 10px 5px #e5e5e5;
+}
+.favoriteName {
+	position: relative;
+	left: 20px;
+}
+img {
+	width: 300px;
+	height: 200px;
+	position: relative;
+	left: 50px;
+}
+.conte {
+	position: relative;
+	top: 10px;
+	width: 360px;
+	left: 20px;
+	border: 1px solid #e5e5e5;
+}
+.fact{
+		font-style: italic;
+
+}
+.pragraphwrite {
+	position: relative;
+	left: 10px;
+	width: 340px;
+}
+.fontwidth {
+	font-weight: bold;
+}
+ul li {
+	position: relative;
+	left: -30px;
+	list-style-type: none;
+}
